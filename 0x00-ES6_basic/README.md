@@ -23,6 +23,14 @@ This directory contains the script implementation of the core functionalities in
 In this project directory, install `Jest`, `Babel` and `ESList` by using the supplied `package.json` and run `npm install` from the `terminal` of your project folder to install all necessary project dependencies.
 
 ## Run
+To execute the script, the following code must be used
+```node
+    npm run dev <entryPoint>.js
+```
+>[!Note]
+> `entryPoint.js` refers to the matching `[0-9]-main.js` file below.
+
+## Usages
 The following are sample files to appreciate the script file functionality.
 
 `0-main.js`
