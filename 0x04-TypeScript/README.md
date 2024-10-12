@@ -2,7 +2,7 @@
 This directory contains the script files of [TypeScript](https://www.typescriptlang.org/docs/handbook/basic-types.html) implementation.
 
 ## Setup
-The following are to be created
+This directory contains subdirectories and the following are to be created in each and every subdirectory
 
 `package.json`
 ```js
